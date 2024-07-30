@@ -11,6 +11,6 @@ scipy==1.7.0
 six~=1.15.0
 tensorflow-datasets==4.3.0
 tensorflow-probability==0.13.0
-tensorflow==2.5.0
+tensorflow==2.12.1
 tensorflow-gan==2.0.0
 
